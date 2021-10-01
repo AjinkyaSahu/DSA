@@ -1,3 +1,3 @@
 # DSA
 
-This repo is for Hacktoberfest contribution 
+This repository is for Hacktoberfest 2021 contribution 
