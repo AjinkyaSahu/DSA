@@ -24,14 +24,12 @@ int n;
 cout<<" enter the number of columns: "<<endl;
 cin>>n;
 
-// int r;
-// cout<<" enter the number of rows: "<<endl;
-// cin>>r;
+
 
 for (int i=0; i<n;i++){
     for (int j=0;j<=i;j++){
-    cout<<fact(i)/(fact(j)*fact(i-j))<< " ";    //for int i=0 cout will be printed 1 time
-    }                                           //int i=1; cout 2 times
+    cout<<fact(i)/(fact(j)*fact(i-j))<< " ";    
+    }                                           
     cout<<endl;
 }
 
